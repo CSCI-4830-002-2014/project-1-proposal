@@ -1,17 +1,17 @@
 # Name
-[Put your name here]
+Alexander Tsankov
 
 # Sensor Type (10 points)
-[Light or Sound Sensor]
+Sound sensor 
 
 # Any prior experience? (10 points)
-[Tell us whether or not you've used arduino or other physical computing artifacts prior to this]
+No I don't have any prior experience
 
 # Have you soldered before? (5 points)
-[yes/no]
+No 
 
 # How will you gather test data? (20 points)
-[Tell us what you'll try to sense (e.g., how much sun certain rooms get, how loud study rooms tend to be, how loud is your house, where's the best place to put your tomatoe plant, etc)]
+I will drop a sound sensor in the engineering center lobby to try to determine which time is the loudest, and hopefully, determine when it is most crowded. 
 
 # Which workshop will you attend? (5 points)
-[Tuesday 2:30-4:30 or Wednesday 5-7]
+Wednesday 5-7
