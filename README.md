@@ -1,17 +1,19 @@
 # Name
-[Put your name here]
+Chris Wittenberg  
 
 # Sensor Type (10 points)
-[Light or Sound Sensor]
+Sound
 
 # Any prior experience? (10 points)
-[Tell us whether or not you've used arduino or other physical computing artifacts prior to this]
+I have no arduino or physical computing experience.
 
 # Have you soldered before? (5 points)
-[yes/no]
+No.
 
 # How will you gather test data? (20 points)
-[Tell us what you'll try to sense (e.g., how much sun certain rooms get, how loud study rooms tend to be, how loud is your house, where's the best place to put your tomatoe plant, etc)]
+I am going to gather test data using a sound sensor at the UMC. My plan is to find which times are the busiest to go to the UMC based on sound. 
 
 # Which workshop will you attend? (5 points)
 [Tuesday 2:30-4:30 or Wednesday 5-7]
+
+I will attend the 2:30-4:30 workshop on Tuesday. 
