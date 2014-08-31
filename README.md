@@ -1,17 +1,23 @@
 # Name
-[Put your name here]
+
+Ian Ker-Seymer
 
 # Sensor Type (10 points)
-[Light or Sound Sensor]
+
+Sound
 
 # Any prior experience? (10 points)
-[Tell us whether or not you've used arduino or other physical computing artifacts prior to this]
+
+Yes I have a Raspberry Pi and have done small projects with that before.
 
 # Have you soldered before? (5 points)
 [yes/no]
+No.
 
 # How will you gather test data? (20 points)
-[Tell us what you'll try to sense (e.g., how much sun certain rooms get, how loud study rooms tend to be, how loud is your house, where's the best place to put your tomatoe plant, etc)]
+
+I am going to try to map traffic patterns by collecting sound data off 30th St. Barring that, I will map traffic patterns in the UMC by taking sound data to see when classes start and begin, and what the peak hours are in the UMC. I will have to use the Arduino for at least 4-5 hours to get data.
 
 # Which workshop will you attend? (5 points)
-[Tuesday 2:30-4:30 or Wednesday 5-7]
+
+Tuesday.
