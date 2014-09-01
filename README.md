@@ -1,17 +1,17 @@
 # Name
-[Put your name here]
+Niklas Fejes
 
 # Sensor Type (10 points)
-[Light or Sound Sensor]
+Sound Sensor
 
 # Any prior experience? (10 points)
-[Tell us whether or not you've used arduino or other physical computing artifacts prior to this]
+I have taken a course in Microcontroller programming (grad level, corresponding to 6 credits) where we programmed AVRs and learned about the hardware features of Atmel's microcontrollers. I am familiar with the Arduino environment but prefer to code in plain C/C++.
 
 # Have you soldered before? (5 points)
-[yes/no]
+yes
 
 # How will you gather test data? (20 points)
-[Tell us what you'll try to sense (e.g., how much sun certain rooms get, how loud study rooms tend to be, how loud is your house, where's the best place to put your tomatoe plant, etc)]
+I will try to sense the loudness from the street outside my window to detect when it is better to study at home vs in school. Compared to the light sensor, the sound sensor allows for more complex analysis of the data on hardware. I will try to detect more than just loudness for the test data.
 
 # Which workshop will you attend? (5 points)
-[Tuesday 2:30-4:30 or Wednesday 5-7]
+Tuesday 2:30-4:30
