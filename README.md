@@ -1,17 +1,17 @@
 # Name
-[Put your name here]
+Austin Wood
 
 # Sensor Type (10 points)
-[Light or Sound Sensor]
+Sound Sensor
 
 # Any prior experience? (10 points)
-[Tell us whether or not you've used arduino or other physical computing artifacts prior to this]
+I have not used an arduino or any other physical computing artifact yet, but I'm very excited!
 
 # Have you soldered before? (5 points)
-[yes/no]
+no
 
 # How will you gather test data? (20 points)
-[Tell us what you'll try to sense (e.g., how much sun certain rooms get, how loud study rooms tend to be, how loud is your house, where's the best place to put your tomatoe plant, etc)]
+I don't have a solid concept yet, but I love the idea of either tracking the traffic at certain drinking fountains around campus throughout the day, or traffic on certain parts of the road. Just a few ideas.
 
 # Which workshop will you attend? (5 points)
-[Tuesday 2:30-4:30 or Wednesday 5-7]
+Wednesday, 5-7pm
