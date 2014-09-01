@@ -1,5 +1,5 @@
 # Name
-[Put your name here]
+[Daniel Nolan]
 
 # Sensor Type (10 points)
 [Light or Sound Sensor]
