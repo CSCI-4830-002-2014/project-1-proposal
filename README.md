@@ -11,7 +11,6 @@ Have not used arduino or other computer artifacts
 yes
 
 # How will you gather test data? (20 points)
-How loud my house is compared to a fraternity house (or I can just do my house)
-
+Find which area (my backyard, room, or office at work) is best suitable for work. [Last proposal was not approved by friends so I had to change this]
 # Which workshop will you attend? (5 points)
 Tuesday 2:30-4:30
